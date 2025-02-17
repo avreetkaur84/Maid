@@ -5,7 +5,7 @@ import starsIcon from "../../assets/stars-icon.svg";
 import plusIcon from "../../assets/plus-icon.svg";
 
 import chef1 from "../../assets/chef1.jpg"
-import chef2 from "../../assets/chef5.jpg"
+import chef2 from "../../assets/chef/chef6.jpg"
 import chef3 from "../../assets/chef3.webp"
 
 // import productOneIcon from "../../assets/product-one.svg";
@@ -19,21 +19,22 @@ export const productsBtnText = "Have a look";
 
 export const products = [
   {
-    title: "Golden Pothos",
-    price: "$65.99",
+    title: "Chef Gordon Ramsay",
+    price: "Michelin Star Chef",
     img: chef1,
   },
   {
-    title: "Rubber Plant",
-    price: "$75.00",
+    title: "Chef Jamie Oliver",
+    price: "Expert in Italian Cuisine",
     img: chef2,
   },
   {
-    title: "Cast Iron Plant",
-    price: "$88.50",
+    title: "Chef Nigella Lawson",
+    price: "Queen of Home Cooking",
     img: chef3,
   },
 ];
+
 
 function FeaturedMaids() {
   return (

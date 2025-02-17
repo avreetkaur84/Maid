@@ -85,7 +85,7 @@ const Navbar = () => {
 
                 <div className="navbar-end flex">
                     <div className=" px-3">
-                        <Link to="/chefRegistrationForm">
+                        <Link to="/authRegistration">
                             {/* <img src={emergencyLogo} alt="logo" className='w-16 h-16 object-contain' /> 
                             */}
                             <div className="bg-rose-600 py-2 px-4 rounded-3xl">
@@ -95,7 +95,7 @@ const Navbar = () => {
                     </div>
 
                     <div className="">
-                        <Link to="/chefRegistrationForm">
+                        <Link to="/authRegistration">
                             {/* <img src={emergencyLogo} alt="logo" className='w-16 h-16 object-contain' /> 
                             */}
                             <div className="bg-rose-600 py-2 px-4 rounded-3xl">

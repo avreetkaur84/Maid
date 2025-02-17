@@ -3,7 +3,7 @@ import ChefCard from "./ChefCard";
 import { Input } from "../../components/ui/formUI";
 import { Select, SelectItem } from "../../components/ui/formUI";
 
-import chef1 from "../../assets/chef/chef1.jpg"
+import chef1 from "../../assets/chef/chef7.jpeg"
 import chef2 from "../../assets/chef/chef5.jpg"
 import chef3 from "../../assets/chef/chef3.webp"
 import chef4 from "../../assets/chef/chef4.jpeg"
